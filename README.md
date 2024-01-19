@@ -1,5 +1,5 @@
 # BSCTradingSniper
-Bot trading sniper on BSC chain Crypto
+Bot trading sniper on BSC chain Crypto Pancake Swap
 for now, just support BNB pair, please dont use with usdt pair
 
 
